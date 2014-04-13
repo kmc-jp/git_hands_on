@@ -1,6 +1,6 @@
 # chart-linux
 
 ## like
-- ArchLinux
+- ArchLinuxInstallBattle
 - Python
 - Haskell
