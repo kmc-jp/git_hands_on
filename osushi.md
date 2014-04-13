@@ -7,4 +7,5 @@
 - 炙りサーモン
 - 鮭
 - A red sea bream
-
+- mackerel
+- tuna
