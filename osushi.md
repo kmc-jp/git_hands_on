@@ -8,6 +8,6 @@
 - 鮭
 - A red sea bream
 - mackerel
-- tuna
+- マグロ
 - いなり
 - 好きな寿司のネタ
