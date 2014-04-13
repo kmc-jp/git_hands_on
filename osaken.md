@@ -1,0 +1,5 @@
+#osaken
+
+-ƒjƒR“®
+-elona
+-cod
