@@ -1,6 +1,7 @@
 # tyage
 
 - id: tyage
+- [@tyage](https://twitter.com/tyage)
 - やさしくしてください
 - 今日のご飯は納豆ご飯でした
 
