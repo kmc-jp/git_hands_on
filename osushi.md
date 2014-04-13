@@ -9,4 +9,5 @@
 - A red sea bream
 - mackerel
 - tuna
+- いなり
 - 好きな寿司のネタ
