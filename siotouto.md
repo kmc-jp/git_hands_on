@@ -1,7 +1,7 @@
 #siotouto
 
--niconico
--puyopuyo
--charge-man
--procon
--boardgames
+- niconico
+- puyopuyo
+- charge-man
+- procon
+- boardgames
