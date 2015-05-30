@@ -1,5 +1,5 @@
-# gnu-kmc
+ï»¿# gnu-kmc
 
-- gnu(ƒk[)
-- ƒJƒŒ[ƒ‰ƒCƒX
-- ƒnƒ„ƒVƒ‰ƒCƒX
+- gnu(ãƒŒãƒ¼)
+- ã‚«ãƒ¬ãƒ¼ãƒ©ã‚¤ã‚¹
+- ãƒãƒ¤ã‚·ãƒ©ã‚¤ã‚¹
